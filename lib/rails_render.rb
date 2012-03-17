@@ -1,0 +1,2 @@
+module RailsRender
+end
